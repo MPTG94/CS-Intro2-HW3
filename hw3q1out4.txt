@@ -1,0 +1,260 @@
+*** Welcome to AVOIDANCE TIC-TAC-TOE game ***
+
+Please enter board size (1 to 11):
+
+Current board:
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|_|_|_|_|
+|X|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|_|_|_|_|
+|X|_|_|_|
+|_|_|O|_|
+|_|_|_|_|
+
+
+Player ** 1 **, enter next move:
+Illegal move!!!, please try again:
+
+Current board:
+|_|_|_|_|
+|X|_|_|X|
+|_|_|O|_|
+|_|_|_|_|
+
+
+Player ** 2 **, enter next move:
+Illegal move!!!, please try again:
+Illegal move!!!, please try again:
+Illegal move!!!, please try again:
+
+Current board:
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|_|_|
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|O|X|_|
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|O|X|_|
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|_|_|
+|_|_|_|_|
+|_|_|_|_|
+|_|_|_|_|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|O|_|_|
+|_|_|_|_|
+|_|X|_|_|
+|_|_|_|_|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|_|O|
+|_|_|_|_|
+|_|X|_|_|
+|_|_|_|_|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|O|_|O|
+|_|_|_|_|
+|_|X|_|_|
+|X|_|_|_|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|_|O|
+|_|_|O|_|
+|_|X|_|_|
+|X|_|_|_|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|O|_|O|
+|_|_|O|_|
+|_|X|_|_|
+|X|_|_|X|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|_|O|
+|_|_|O|O|
+|_|X|_|_|
+|X|_|_|X|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|_|_|O|O|
+|_|X|_|_|
+|X|_|_|X|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|O|_|O|O|
+|_|X|_|_|
+|X|_|_|X|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|O|_|O|O|
+|_|X|_|X|
+|X|_|_|X|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|O|_|O|O|
+|_|X|_|X|
+|X|_|O|X|
+
+
+Player ** 1 **, enter next move:
+Illegal move!!!, please try again:
+Illegal move!!!, please try again:
+
+Current board:
+|X|O|X|O|
+|O|_|O|O|
+|X|X|_|X|
+|X|_|O|X|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|O|_|O|O|
+|X|X|_|X|
+|X|O|O|X|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|O|_|O|O|
+|_|X|_|X|
+|X|_|_|X|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|O|_|O|O|
+|_|X|_|X|
+|X|O|_|X|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|O|_|O|O|
+|_|X|X|X|
+|X|O|_|X|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|O|_|O|O|
+|_|X|X|X|
+|X|O|O|X|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|O|X|O|
+|O|X|O|O|
+|_|X|X|X|
+|X|O|O|X|
+
+Player 2 Wins! Hooray!

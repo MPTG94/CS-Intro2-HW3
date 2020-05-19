@@ -1,0 +1,91 @@
+*** Welcome to AVOIDANCE TIC-TAC-TOE game ***
+
+Please enter board size (1 to 11):
+
+Current board:
+|_|_|_|
+|_|_|_|
+|_|_|_|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|_|_|
+|_|_|_|
+|_|_|_|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|_|_|
+|_|O|_|
+|_|_|_|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|_|_|
+|_|O|_|
+|_|_|X|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|_|_|
+|_|O|O|
+|_|_|X|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|_|X|
+|_|O|O|
+|_|_|X|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|_|X|
+|_|O|O|
+|O|_|X|
+
+
+Player ** 1 **, enter next move:
+
+Current board:
+|X|_|X|
+|_|O|O|
+|_|_|X|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|_|X|
+|_|O|O|
+|_|O|X|
+
+
+Player ** 1 **, enter next move:
+Illegal move!!!, please try again:
+
+Current board:
+|X|_|X|
+|_|O|O|
+|X|O|X|
+
+
+Player ** 2 **, enter next move:
+
+Current board:
+|X|_|X|
+|O|O|O|
+|X|O|X|
+
+Player 1 Wins! Hooray!
